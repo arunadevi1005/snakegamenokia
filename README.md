@@ -1,7 +1,7 @@
 🐍 Snake Game
 A modern and polished version of the classic Snake game.
 
-🔗 Play here: Snake Game
+🔗 Play here: https://snakegamenokia10.netlify.app/
 
 📌 Features
 ✅ Smooth movement with arrow key controls
